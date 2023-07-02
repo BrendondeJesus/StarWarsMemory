@@ -16,7 +16,7 @@ Projeto desenvolvido durante o curso B7Web.
 
 ![preview](./src/assets/StarWarsMemory.png)
 
-[Clique aqui para acessar](https://github.com/BrendondeJesus/StarWarsMemory.git)
+[Clique aqui para acessar](https://brendondejesus.github.io/StarWarsMemory/)
 
 ## Tecnologias
 
